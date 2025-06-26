@@ -45,7 +45,7 @@ const Main = () => {
     <div className="flex-1 h-screen bg-white flex flex-col overflow-hidden">
       {/* Nav */}
       <div className="flex items-center justify-between text-[22px] p-5 text-[#585858] shadow-sm">
-        <p className="font-semibold">Sruthi Ai</p>
+        <p className="font-semibold">Femini</p>
         <img
           src={assets.user_icon}
           alt="User"
